@@ -1,5 +1,5 @@
-CREATE DATABASE livraria DEFAULT CHARACTER SET utf8;
-USE livraria;
+CREATE DATABASE sergiocd_livraria DEFAULT CHARACTER SET utf8;
+USE sergiocd_livraria;
 
 CREATE TABLE livros (
     nome          VARCHAR(255) NOT NULL,
